@@ -8,8 +8,6 @@
 # modified by Tobias Faust
 # Maintained by igami since 2018 - Thanks Dietmar for all you did for FHEM, RIP
 #
-# Copyright by igami
-#
 # This file is part of FHEM.
 #
 # FHEM is free software: you can redistribute it and/or modify
